@@ -13,7 +13,7 @@ import {
 import { getFirestore, doc, getDoc, setDoc } from "firebase/firestore";
 
 const firebaseConfig = {
-  apiKey: "APIKEYHERE",
+  apiKey: "APIKEY",
   authDomain: "crwn-clothing-db-b0250.firebaseapp.com",
   projectId: "crwn-clothing-db-b0250",
   storageBucket: "crwn-clothing-db-b0250.appspot.com",

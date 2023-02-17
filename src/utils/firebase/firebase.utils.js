@@ -22,7 +22,7 @@ import {
 } from "firebase/firestore";
 
 const firebaseConfig = {
-  apiKey: "API_KEY",
+  apiKey: "APIKEY",
   authDomain: "crwn-clothing-db-b0250.firebaseapp.com",
   projectId: "crwn-clothing-db-b0250",
   storageBucket: "crwn-clothing-db-b0250.appspot.com",
